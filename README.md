@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm Currently learning few stuff , here and there. <br>I'm currently working of few other stuff - and just to create a place to store my codes.
+I'm Currently learning few stuff , here and there. <br>I'm currently working of few other stuff - and just to create a place to store my code and know how much i've improved...
 
 
 # 💻 Tech Stack:
